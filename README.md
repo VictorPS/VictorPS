@@ -1,5 +1,3 @@
-![VictorPS' GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPS&show_icons=true&theme=radical&count_private=true)
-
 <!--
 **VictorPS/VictorPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
